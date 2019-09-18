@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1480574116 source:d:\0my files\deep@k\cs project\0pokedex\pokedex\pokedex.cpp
+	"resource_handler.h"
+	"sdl.h"
+
+1480574725 d:\0my files\deep@k\cs project\0pokedex\pokedex\resource_handler.h
+	"inc.h"
+
+1480510174 d:\0my files\deep@k\cs project\0pokedex\pokedex\inc.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<dos.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"cstdlib"
+	<math.h>
+
+1480573830 d:\0my files\deep@k\cs project\0pokedex\pokedex\sdl.h
+	"inc.h"
+
