@@ -1,0 +1,15 @@
+#include<iostream>
+#include<fstream>
+#include<conio.h>
+#include<iomanip>
+#include<dos.h>
+#include<ctype.h>
+#include<stdlib.h>
+#include<stdio.h>
+#include<graphics.h>
+#include<SDL.h>
+#include<SDL_image.h>
+#include<stdio.h>
+#include<string>
+#include"cstdlib"
+#include<math.h>
